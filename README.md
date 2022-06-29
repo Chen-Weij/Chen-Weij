@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chen-Weij
+- 👀 I’m interested in Anime and Frontend Development.
+- 🌱 I’m currently learning React.
